@@ -1,0 +1,29 @@
+ 1800  pwd
+ 1801  ls 
+ 1802  mkdir assn1
+ 1803  cd assn1/
+ 1804  mkdir code data
+ 1805  ls
+ 1806  cd data
+ 1807  touch students.txt
+ 1808  vim students.txt
+ 1809  cd ..
+ 1810  ls
+ 1811  cd code/
+ 1812  touch student.h
+ 1813  vim student.h
+ 1814  touch linkedlist.h
+ 1815  vim linkedlist.h 
+ 1816  touch linkedlist.c
+ 1817  vim linkedlist.c
+ 1818  touch student.c
+ 1819  vim student.c
+ 1820  cd ..
+ 1821  ls
+ 1822  cd ..
+ 1823  ls
+ 1824  touch Makefile
+ 1825  ls
+ 1826  vim Makefile 
+ 1827  make
+ 1828  history > terminal_commands
