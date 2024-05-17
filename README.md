@@ -82,7 +82,3 @@ A program that modifies the default signal handling behavior to stop at 'q' inst
 
 [jobs.txt](jobs.txt)<br>
 A text file containing job definitions or configurations used in some of the scheduling or process management programs.
-
----
-
-Feel free to customize any descriptions or add more details as needed!
