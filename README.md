@@ -51,7 +51,7 @@ sudo passwd xyz
 (As the original user) create a folder called usertest. Go to this folder. Create a program hello that prints "Hello World" on the screen. Create another program bye that prints "Goodbye World" on the screen.
 remove the execute permission for others from bye using chmod.
 now switch to user xyz and go to the above folder and try to run the programs.
-**You can see the proper organization of the answers in the [word file](OS_assn-Users_and_forking.docx)
+**You can see the proper organization of the answers in the [word file](User_&_Forking/OS_assn-Users_and_forking.docx)
 
 [Assn-Thread_Hello_World.c](Assn-Thread_Hello_World.c)<br>
 1) Create a program with a child thread that prints "child" 10000 times at intervals of 0.1 seconds.  The main program should print "parent" 10000 times.. 
