@@ -31,7 +31,7 @@ Pointer Arithmetic:
 12) Define a struct containing an int and an int array of size 5. Create one struct like this and save its memory address in a pointer. Print this address. Increment the pointer by 1 and print the address again.
 13) Create a pointer to a pointer. Save the address of the previous pointer in it and print this. Increment it by one and print it again.
 
-[Signal Handling and Scheduling](Signal_Handling_and_Scheduling)<br>
+[Signal Handling and Scheduling](Signals_and_Scheduler)<br>
 1) Write a program that runs an infinite loop printing "Hello"  every second. Register a signal handler such that the program does not exit on ctrl-c.
 2) In you favourite programming language (Python, C++, Java, C) write an FCFS and an SJF scheduler. Your program should read from a file that has a table of jobs arrival_times and execution_times. Your program should output the jobs scheduled in order with their start and end times. Your program should also incorporate idle times in the schedule. It should calculate the average  turnaround time of the schedule as well.
 
